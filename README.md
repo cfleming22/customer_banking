@@ -1,7 +1,7 @@
 # Customer Banking System
 
 ## Overview
-This Python application implements a customer banking system that calculates and tracks interest earned on savings and CD (Certificate of Deposit) accounts. Users can input their account details and see the interest earned along with updated balances over a specified time period.
+Module 3 challenge 'customer_banking' is application that implements a customer banking system that calculates and tracks interest earned on savings and CD (Certificate of Deposit) accounts. 
 
 ## Features
 - Calculate interest earned on savings accounts
